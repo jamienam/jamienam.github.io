@@ -106,9 +106,11 @@ main {
   overflow: hidden;
 }
 .avatar img {
-  width: 90%;
-  height: 90%;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
+  transform: scale(1.3);
+  object-position: center 30%;
 }
 
 .hero h1 {
