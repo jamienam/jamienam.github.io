@@ -109,7 +109,7 @@ main {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transform: scale(0.8);
+  transform: scale(1);
 }
 
 .hero h1 {
